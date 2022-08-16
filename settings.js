@@ -20,8 +20,8 @@ global.autoread = false // auto read pesan / message
 // Other
 global.botname = "AlyaaXzy" //namabot kalian
 global.ownername= "Owner AlyaaXzy" //nama kalian
-global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
-global.youtube = "https://youtube.com/c/ZeeoneOfc" //bebas asal jan hapus
+global.myweb ="https://github.com/AlyaaXd" //bebas asal jan hapus
+global.youtube = "https://youtube.com/channel/UCDUyjUl51tp01m65XPie_MA" //bebas asal jan hapus
 global.github = "https://github.com/AlyaaXd" //bebas
 global.email = "alyaasaja1002@gmail.com" //bebas
 global.region = "Indonesia" //bebas
