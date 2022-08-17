@@ -25,8 +25,8 @@ global.language = indonesia  //change indonesia to english if you don't understa
 
 // Other
 // Other
-global.botname = "AlyaaXzy" //namabot kalian
-global.ownername= "Owner AlyaaXzy" //nama kalian
+global.botname = "Vanitas" //namabot kalian
+global.ownername= "Owner Vanitas" //nama kalian
 global.myweb ="https://github.com/AlyaaXd" //bebas asal jan hapus
 global.youtube = "https://youtube.com/channel/UCDUyjUl51tp01m65XPie_MA" //bebas asal jan hapus
 global.myweb2 = "https://github.com/AlyaaXd" //bebas
@@ -40,8 +40,8 @@ global.ownernomerr = "+6289505165400" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.packname = '© AlyaaXzy' //sticker wm ubah
-global.author = 'Di Buat Oleh AlyaaXzy' //sticker wm ganti nama kalian
+global.packname = '© Vanitas' //sticker wm ubah
+global.author = 'Di Buat Oleh Vanitas' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
 global.multiplier = 69
